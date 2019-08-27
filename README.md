@@ -52,13 +52,13 @@ Download GoldenDict from below links as follows:
 
 **screenshots:**
 
-![screenshot 01]()
+![screenshot](https://raw.githubusercontent.com/dolanskurd/google_translate_en_ku/master/screenshot_goldendict.png)
 
 [**Google Translate "English - Kurdish" Website**](https://translate.google.com/?um=1&ie=UTF-8&hl=en&client=tw-ob#en/ku/)
 
 **screenshot:**
 
-![Google Translate "English - Kurdish" Website screenshot]()
+![Google Translate "English - Kurdish" Website screenshot](https://raw.githubusercontent.com/dolanskurd/google_translate_en_ku/master/website_screenshot.png)
 
 ## Contact me
 
